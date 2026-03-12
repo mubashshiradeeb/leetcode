@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mubashshiradeeb/leetcode/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
