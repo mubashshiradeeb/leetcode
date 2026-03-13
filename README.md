@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0191-number-of-1-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/mubashshiradeeb/leetcode/tree/master/0771-jewels-and-stones) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
