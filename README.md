@@ -30,5 +30,10 @@
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/mubashshiradeeb/leetcode/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/mubashshiradeeb/leetcode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
