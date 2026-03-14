@@ -41,4 +41,20 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0191-number-of-1-bits) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mubashshiradeeb/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mubashshiradeeb/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mubashshiradeeb/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mubashshiradeeb/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
