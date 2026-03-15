@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mubashshiradeeb/leetcode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/0060-permutation-sequence) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
