@@ -7,6 +7,7 @@
 | [0035-search-insert-position](https://github.com/mubashshiradeeb/leetcode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mubashshiradeeb/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/mubashshiradeeb/leetcode/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mubashshiradeeb/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
 ## Hash Table
 |  |
