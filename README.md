@@ -40,6 +40,7 @@
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/mubashshiradeeb/leetcode/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashshiradeeb/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2833-furthest-point-from-origin](https://github.com/mubashshiradeeb/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
 ## Hash Table
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [2810-faulty-keyboard](https://github.com/mubashshiradeeb/leetcode/tree/master/2810-faulty-keyboard) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/mubashshiradeeb/leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
