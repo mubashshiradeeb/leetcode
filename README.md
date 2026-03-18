@@ -9,6 +9,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mubashshiradeeb/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashshiradeeb/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2942-find-words-containing-character](https://github.com/mubashshiradeeb/leetcode/tree/master/2942-find-words-containing-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashshiradeeb/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/mubashshiradeeb/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2942-find-words-containing-character](https://github.com/mubashshiradeeb/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
 ## Hash Table
 |  |
