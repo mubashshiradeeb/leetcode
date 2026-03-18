@@ -45,11 +45,13 @@
 | [2833-furthest-point-from-origin](https://github.com/mubashshiradeeb/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/mubashshiradeeb/leetcode/tree/master/2942-find-words-containing-character) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/mubashshiradeeb/leetcode/tree/master/0771-jewels-and-stones) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Divide and Conquer
 |  |
 | ------- |
