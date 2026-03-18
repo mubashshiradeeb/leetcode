@@ -5,6 +5,4 @@ class Solution(object):
         :rtype: str
         """
         s="".join(sorted(s))
-        s=s[:-1]
-        s=s[::-1]
-        return s+"1"
+        return s[:-1][::-1]+"1"
