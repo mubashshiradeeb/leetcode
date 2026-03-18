@@ -37,6 +37,7 @@
 | [0771-jewels-and-stones](https://github.com/mubashshiradeeb/leetcode/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mubashshiradeeb/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2810-faulty-keyboard](https://github.com/mubashshiradeeb/leetcode/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mubashshiradeeb/leetcode/tree/master/0100-same-tree) |
+## Simulation
+|  |
+| ------- |
+| [2810-faulty-keyboard](https://github.com/mubashshiradeeb/leetcode/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
