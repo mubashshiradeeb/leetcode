@@ -24,6 +24,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/0060-permutation-sequence) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [2810-faulty-keyboard](https://github.com/mubashshiradeeb/leetcode/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashshiradeeb/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/mubashshiradeeb/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
 ## Hash Table
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/mubashshiradeeb/leetcode/tree/master/2833-furthest-point-from-origin) |
+## Greedy
+|  |
+| ------- |
+| [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
