@@ -48,6 +48,7 @@
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/mubashshiradeeb/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2716-minimize-string-length](https://github.com/mubashshiradeeb/leetcode/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/mubashshiradeeb/leetcode/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashshiradeeb/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/mubashshiradeeb/leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -61,6 +62,7 @@
 | [0771-jewels-and-stones](https://github.com/mubashshiradeeb/leetcode/tree/master/0771-jewels-and-stones) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mubashshiradeeb/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2716-minimize-string-length](https://github.com/mubashshiradeeb/leetcode/tree/master/2716-minimize-string-length) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Divide and Conquer
 |  |
