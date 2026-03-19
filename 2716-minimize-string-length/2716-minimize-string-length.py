@@ -4,4 +4,4 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        return len("".join(dict.fromkeys(s)))
+        return len(set(s))
