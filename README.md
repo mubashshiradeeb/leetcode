@@ -57,6 +57,7 @@
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/mubashshiradeeb/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3798-largest-even-number](https://github.com/mubashshiradeeb/leetcode/tree/master/3798-largest-even-number) |
 ## Hash Table
 |  |
 | ------- |
