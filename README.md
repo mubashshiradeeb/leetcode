@@ -56,6 +56,7 @@
 | [2942-find-words-containing-character](https://github.com/mubashshiradeeb/leetcode/tree/master/2942-find-words-containing-character) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/mubashshiradeeb/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/mubashshiradeeb/leetcode/tree/master/2716-minimize-string-length) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3146-permutation-difference-between-two-strings](https://github.com/mubashshiradeeb/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
