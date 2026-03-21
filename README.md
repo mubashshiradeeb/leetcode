@@ -58,6 +58,7 @@
 | [3110-score-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/mubashshiradeeb/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3798-largest-even-number](https://github.com/mubashshiradeeb/leetcode/tree/master/3798-largest-even-number) |
+| [3856-trim-trailing-vowels](https://github.com/mubashshiradeeb/leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Hash Table
 |  |
 | ------- |
