@@ -23,6 +23,7 @@
 | [0191-number-of-1-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/mubashshiradeeb/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/mubashshiradeeb/leetcode/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
