@@ -21,18 +21,21 @@
 | ------- |
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/mubashshiradeeb/leetcode/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/0060-permutation-sequence) |
+| [0342-power-of-four](https://github.com/mubashshiradeeb/leetcode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/0060-permutation-sequence) |
+| [0342-power-of-four](https://github.com/mubashshiradeeb/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
