@@ -7,7 +7,7 @@ class Solution(object):
         """
         if len(s)!=len(t):
             return False
-        for i in s:
+        for i in set(s):
             if s.count(i)!=t.count(i):
                 return False
         return True
