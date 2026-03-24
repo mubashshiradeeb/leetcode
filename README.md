@@ -21,6 +21,7 @@
 | ------- |
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/mubashshiradeeb/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/mubashshiradeeb/leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mubashshiradeeb/leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
