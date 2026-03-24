@@ -32,6 +32,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/mubashshiradeeb/leetcode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/mubashshiradeeb/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mubashshiradeeb/leetcode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/mubashshiradeeb/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mubashshiradeeb/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
