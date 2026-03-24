@@ -26,6 +26,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3827-count-monobit-integers](https://github.com/mubashshiradeeb/leetcode/tree/master/3827-count-monobit-integers) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mubashshiradeeb/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3827-count-monobit-integers](https://github.com/mubashshiradeeb/leetcode/tree/master/3827-count-monobit-integers) |
 ## Two Pointers
 |  |
 | ------- |
