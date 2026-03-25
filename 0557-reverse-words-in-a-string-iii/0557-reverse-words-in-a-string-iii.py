@@ -4,8 +4,9 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        a=""
         s=s.split()
-        for i in s:
-            a+=i[::-1]+" "
-        return a[:-1]
+        result=[]
+        for word in s:
+            r_word = word[::-1]
+            result.append(r_word)
+        return " ".join(result)
