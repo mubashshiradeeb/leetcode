@@ -34,6 +34,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/mubashshiradeeb/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/mubashshiradeeb/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mubashshiradeeb/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mubashshiradeeb/leetcode/tree/master/0367-valid-perfect-square) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/mubashshiradeeb/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mubashshiradeeb/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mubashshiradeeb/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Queue
