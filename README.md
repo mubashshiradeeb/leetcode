@@ -58,6 +58,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mubashshiradeeb/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mubashshiradeeb/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mubashshiradeeb/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
