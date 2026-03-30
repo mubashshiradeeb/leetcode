@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mubashshiradeeb/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mubashshiradeeb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/mubashshiradeeb/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mubashshiradeeb/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mubashshiradeeb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/mubashshiradeeb/leetcode/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mubashshiradeeb/leetcode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mubashshiradeeb/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
