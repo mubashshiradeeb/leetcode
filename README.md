@@ -36,6 +36,7 @@
 | [0060-permutation-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/mubashshiradeeb/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/mubashshiradeeb/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mubashshiradeeb/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mubashshiradeeb/leetcode/tree/master/0367-valid-perfect-square) |
