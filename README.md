@@ -44,6 +44,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/mubashshiradeeb/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
 |  |
@@ -135,6 +136,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/mubashshiradeeb/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Enumeration
 |  |
