@@ -48,6 +48,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mubashshiradeeb/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/mubashshiradeeb/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/mubashshiradeeb/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/mubashshiradeeb/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
