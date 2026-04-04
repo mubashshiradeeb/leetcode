@@ -53,6 +53,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/mubashshiradeeb/leetcode/tree/master/2235-add-two-integers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/mubashshiradeeb/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2769-find-the-maximum-achievable-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
 |  |
