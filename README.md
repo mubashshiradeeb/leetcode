@@ -55,6 +55,7 @@
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/mubashshiradeeb/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/mubashshiradeeb/leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2843-count-symmetric-integers](https://github.com/mubashshiradeeb/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Recursion
 |  |
@@ -156,6 +157,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/mubashshiradeeb/leetcode/tree/master/1952-three-divisors) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mubashshiradeeb/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2843-count-symmetric-integers](https://github.com/mubashshiradeeb/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3827-count-monobit-integers](https://github.com/mubashshiradeeb/leetcode/tree/master/3827-count-monobit-integers) |
 ## Two Pointers
 |  |
