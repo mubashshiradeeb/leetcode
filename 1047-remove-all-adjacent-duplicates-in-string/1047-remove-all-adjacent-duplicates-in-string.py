@@ -4,10 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        stack=" "
-        for i in s:
-            if stack[-1]==i:
-                stack=stack[:-1]
+        stack=[]
+        for char in s:
+            if stack and stack[-1]==char:
+                stack.pop()
             else:
-                stack+=i
-        return stack[1:]
+                stack.append(char)
+        return "".join(stack)
