@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mubashshiradeeb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/mubashshiradeeb/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1089-duplicate-zeros](https://github.com/mubashshiradeeb/leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mubashshiradeeb/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -174,6 +175,7 @@
 | [0202-happy-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mubashshiradeeb/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mubashshiradeeb/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1089-duplicate-zeros](https://github.com/mubashshiradeeb/leetcode/tree/master/1089-duplicate-zeros) |
 ## Queue
 |  |
 | ------- |
