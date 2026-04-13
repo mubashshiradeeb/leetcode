@@ -11,6 +11,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mubashshiradeeb/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/mubashshiradeeb/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/mubashshiradeeb/leetcode/tree/master/2678-number-of-senior-citizens) |
