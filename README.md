@@ -16,6 +16,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mubashshiradeeb/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mubashshiradeeb/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mubashshiradeeb/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -203,6 +204,7 @@
 | [0242-valid-anagram](https://github.com/mubashshiradeeb/leetcode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mubashshiradeeb/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Linked List
 |  |
 | ------- |
