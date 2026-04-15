@@ -20,6 +20,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mubashshiradeeb/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mubashshiradeeb/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/mubashshiradeeb/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mubashshiradeeb/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mubashshiradeeb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/mubashshiradeeb/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Number Theory
 |  |
 | ------- |
