@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/mubashshiradeeb/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0202-happy-number) |
