@@ -67,6 +67,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/mubashshiradeeb/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/mubashshiradeeb/leetcode/tree/master/2235-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/mubashshiradeeb/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/mubashshiradeeb/leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -252,4 +253,5 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
