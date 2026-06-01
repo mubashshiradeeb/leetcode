@@ -24,6 +24,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/mubashshiradeeb/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mubashshiradeeb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mubashshiradeeb/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/mubashshiradeeb/leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -184,6 +185,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mubashshiradeeb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/mubashshiradeeb/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2864-maximum-odd-binary-number](https://github.com/mubashshiradeeb/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Enumeration
@@ -225,6 +227,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mubashshiradeeb/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mubashshiradeeb/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mubashshiradeeb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
 | ------- |
