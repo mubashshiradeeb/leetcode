@@ -31,6 +31,7 @@
 | [2678-number-of-senior-citizens](https://github.com/mubashshiradeeb/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashshiradeeb/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/mubashshiradeeb/leetcode/tree/master/2942-find-words-containing-character) |
+| [3925-concatenate-array-with-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/mubashshiradeeb/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2810-faulty-keyboard](https://github.com/mubashshiradeeb/leetcode/tree/master/2810-faulty-keyboard) |
+| [3925-concatenate-array-with-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
 |  |
 | ------- |
