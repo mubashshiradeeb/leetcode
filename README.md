@@ -26,6 +26,7 @@
 | [1929-concatenation-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mubashshiradeeb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mubashshiradeeb/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -111,6 +112,7 @@
 | [1768-merge-strings-alternately](https://github.com/mubashshiradeeb/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mubashshiradeeb/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mubashshiradeeb/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mubashshiradeeb/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/mubashshiradeeb/leetcode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -211,6 +213,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/mubashshiradeeb/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1089-duplicate-zeros](https://github.com/mubashshiradeeb/leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/mubashshiradeeb/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Queue
 |  |
 | ------- |
