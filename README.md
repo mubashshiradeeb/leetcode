@@ -115,6 +115,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mubashshiradeeb/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mubashshiradeeb/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/mubashshiradeeb/leetcode/tree/master/2129-capitalize-the-title) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mubashshiradeeb/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/mubashshiradeeb/leetcode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
