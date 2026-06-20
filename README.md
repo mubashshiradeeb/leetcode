@@ -25,6 +25,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/mubashshiradeeb/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mubashshiradeeb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mubashshiradeeb/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -138,6 +139,7 @@
 | [0771-jewels-and-stones](https://github.com/mubashshiradeeb/leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/mubashshiradeeb/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mubashshiradeeb/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2716-minimize-string-length](https://github.com/mubashshiradeeb/leetcode/tree/master/2716-minimize-string-length) |
@@ -232,6 +234,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mubashshiradeeb/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mubashshiradeeb/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mubashshiradeeb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
@@ -258,6 +261,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Prefix Sum
 |  |
 | ------- |
