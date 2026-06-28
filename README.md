@@ -25,6 +25,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/mubashshiradeeb/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2032-two-out-of-three](https://github.com/mubashshiradeeb/leetcode/tree/master/2032-two-out-of-three) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mubashshiradeeb/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -50,6 +51,7 @@
 | [0476-number-complement](https://github.com/mubashshiradeeb/leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [2032-two-out-of-three](https://github.com/mubashshiradeeb/leetcode/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3827-count-monobit-integers](https://github.com/mubashshiradeeb/leetcode/tree/master/3827-count-monobit-integers) |
 ## Math
@@ -145,6 +147,7 @@
 | [0771-jewels-and-stones](https://github.com/mubashshiradeeb/leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/mubashshiradeeb/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2032-two-out-of-three](https://github.com/mubashshiradeeb/leetcode/tree/master/2032-two-out-of-three) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/mubashshiradeeb/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/mubashshiradeeb/leetcode/tree/master/2351-first-letter-to-appear-twice) |
