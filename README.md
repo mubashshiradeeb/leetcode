@@ -32,6 +32,7 @@
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mubashshiradeeb/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/mubashshiradeeb/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mubashshiradeeb/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashshiradeeb/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/mubashshiradeeb/leetcode/tree/master/2942-find-words-containing-character) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -242,6 +243,7 @@
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/mubashshiradeeb/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mubashshiradeeb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2733-neither-minimum-nor-maximum](https://github.com/mubashshiradeeb/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Linked List
 |  |
 | ------- |
