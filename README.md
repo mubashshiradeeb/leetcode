@@ -26,6 +26,7 @@
 | [1929-concatenation-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/mubashshiradeeb/leetcode/tree/master/2032-two-out-of-three) |
+| [2057-smallest-index-with-equal-value](https://github.com/mubashshiradeeb/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mubashshiradeeb/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mubashshiradeeb/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mubashshiradeeb/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
