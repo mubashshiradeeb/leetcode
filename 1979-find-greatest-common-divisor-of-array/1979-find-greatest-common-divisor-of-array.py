@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums.sort()
-        a,b=nums[0],nums[-1]
-        while a:
-            b,a=a,b%a
-        return b
+        mn=min(nums)
+        mx=max(nums)
+        for i in range(mn,0,-1):
+            if mx%i==0 and mn%i==0:
+                return i
