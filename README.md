@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mubashshiradeeb/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/mubashshiradeeb/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/mubashshiradeeb/leetcode/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/mubashshiradeeb/leetcode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/mubashshiradeeb/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -68,6 +69,7 @@
 | [0367-valid-perfect-square](https://github.com/mubashshiradeeb/leetcode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/mubashshiradeeb/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/mubashshiradeeb/leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -233,6 +235,7 @@
 | [0070-climbing-stairs](https://github.com/mubashshiradeeb/leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/mubashshiradeeb/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/mubashshiradeeb/leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -283,4 +286,8 @@
 | [1732-find-the-highest-altitude](https://github.com/mubashshiradeeb/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/mubashshiradeeb/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mubashshiradeeb/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
