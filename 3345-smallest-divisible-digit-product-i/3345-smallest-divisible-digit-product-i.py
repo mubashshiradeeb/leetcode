@@ -5,7 +5,6 @@ class Solution(object):
         :type t: int
         :rtype: int
         """
-        import math
         while 1:
             product=1
             for i in str(n):
