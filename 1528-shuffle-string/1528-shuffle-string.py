@@ -5,8 +5,8 @@ class Solution(object):
         :type indices: List[int]
         :rtype: str
         """
-        b=""
+        b=[]
         a=len(indices)
         for i in range(a):
-            b+=s[indices.index(i)]
-        return b
+            b.append(s[indices.index(i)])
+        return "".join(b)
