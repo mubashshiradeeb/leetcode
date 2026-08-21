@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/mubashshiradeeb/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/mubashshiradeeb/leetcode/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/mubashshiradeeb/leetcode/tree/master/0896-monotonic-array) |
 | [1089-duplicate-zeros](https://github.com/mubashshiradeeb/leetcode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/mubashshiradeeb/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
