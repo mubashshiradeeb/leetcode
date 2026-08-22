@@ -4,8 +4,4 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        i=0
-        while i<=n:
-            n-=i
-            i+=1
-        return i-1
+        return int((math.sqrt(8 * n + 1) - 1) / 2)
