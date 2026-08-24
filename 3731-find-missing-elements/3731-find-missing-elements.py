@@ -4,10 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        smallest=min(nums)
-        largest=max(nums)
+        bums=set(nums)
         a=[]
-        for i in range(smallest,largest):
-            if i not in nums:
+        for i in range(min(nums),max(nums)):
+            if i not in bums:
                 a.append(i)
         return a
