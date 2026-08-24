@@ -40,6 +40,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/mubashshiradeeb/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashshiradeeb/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/mubashshiradeeb/leetcode/tree/master/2942-find-words-containing-character) |
+| [3731-find-missing-elements](https://github.com/mubashshiradeeb/leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
@@ -165,6 +166,7 @@
 | [2716-minimize-string-length](https://github.com/mubashshiradeeb/leetcode/tree/master/2716-minimize-string-length) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3146-permutation-difference-between-two-strings](https://github.com/mubashshiradeeb/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3731-find-missing-elements](https://github.com/mubashshiradeeb/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mubashshiradeeb/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mubashshiradeeb/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/mubashshiradeeb/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
