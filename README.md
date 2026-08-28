@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/mubashshiradeeb/leetcode/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/mubashshiradeeb/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mubashshiradeeb/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mubashshiradeeb/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mubashshiradeeb/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mubashshiradeeb/leetcode/tree/master/0896-monotonic-array) |
 | [1089-duplicate-zeros](https://github.com/mubashshiradeeb/leetcode/tree/master/1089-duplicate-zeros) |
@@ -74,6 +75,7 @@
 | [0441-arranging-coins](https://github.com/mubashshiradeeb/leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/mubashshiradeeb/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/mubashshiradeeb/leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mubashshiradeeb/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mubashshiradeeb/leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mubashshiradeeb/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mubashshiradeeb/leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mubashshiradeeb/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mubashshiradeeb/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mubashshiradeeb/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mubashshiradeeb/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
