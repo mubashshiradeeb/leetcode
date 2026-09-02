@@ -43,6 +43,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mubashshiradeeb/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/mubashshiradeeb/leetcode/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/mubashshiradeeb/leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mubashshiradeeb/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashshiradeeb/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Backtracking
 |  |
@@ -97,6 +98,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/mubashshiradeeb/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mubashshiradeeb/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/mubashshiradeeb/leetcode/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mubashshiradeeb/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
