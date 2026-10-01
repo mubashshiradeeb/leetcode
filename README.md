@@ -308,4 +308,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mubashshiradeeb/leetcode/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mubashshiradeeb/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
